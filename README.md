@@ -3,7 +3,7 @@ Estou empolgado em compartilhar sobre o Trabalho Prático que estou realizando. 
 
 Para o meu projeto, optei por desenvolver um site utilizando HTML, CSS e JavaScript:
 
-*\ Tecnologias Utilizadas *
+Tecnologias Utilizadas
 
 HTML e CSS: HTML é a base para a estrutura das páginas web, em que, permite a organização do conteúdo de uma forma lógica. Já o CSS é usado para estilizar o site, criando layouts responsivos e visuais atraentes que melhoram a experiência do usuário.
 
