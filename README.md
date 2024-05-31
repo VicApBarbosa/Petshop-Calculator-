@@ -1,7 +1,5 @@
 # Petshop-Calculator
-Estou empolgado em compartilhar sobre o Trabalho Prático que estou realizando. Meu objetivo é desenvolver uma plataforma que ajuda a encontrar o petshop mais econômico para banho em cães, considerando preços e distâncias.
-
-Para o meu projeto, optei por desenvolver um site utilizando HTML, CSS e JavaScript:
+Estou empolgado em compartilhar sobre o Trabalho Prático que estou realizando. Meu objetivo é desenvolver uma plataforma que ajuda a encontrar o petshop mais econômico para banho em cães, considerando preços e distâncias. Para o meu projeto, optei por desenvolver um site utilizando HTML, CSS e JavaScript.
 
 Tecnologias Utilizadas:
 
