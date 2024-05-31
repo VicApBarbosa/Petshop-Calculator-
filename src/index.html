@@ -1,33 +1,38 @@
 <!DOCTYPE html>
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    //Titulo da página
     <title>Calculadora de Petshops</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Calculadora de Petshops</h1>
-        <div>
-            //Dados solicitados
-            <label for="date">Data:</label>
-            <input type="date" id="date">
-        </div>
-        <div>
-            <label for="smallDogs">Cães Pequenos:</label>
-            <input type="number" id="smallDogs" min="0">
-        </div>
-        <div>
-            <label for="largeDogs">Cães Grandes:</label>
-            <input type="number" id="largeDogs" min="0">
-        </div>
-        <button id="calculateButton">Calcular Melhor Petshop</button>
-        <div id="result"></div>
+    <header>
+        <div class="container">
+            <div class="container-nav-bar">
+                <div class="logo">
+                    <div class="logo-title">
+        <h1>Petshops  Calculator</h1>
+                    </div>
+                </div>
+    </header>
+
+    <div class="container-search">
+        <input type="search" placeholder="Procurar por Petshops" />
     </div>
-    <script src="script.js"></script>
+
+    <main>
+        <form>.
+            <label for="date">Data:</label>
+            <input type="date" id="date" name="date" required>
+            <label for="smallDogs">Cães Pequenos:</label>
+            <input type="number" id="smallDogs" name="smallDogs" required>
+            <label for="largeDogs">Cães Grandes:</label>
+            <input type="number" id="largeDogs" name="largeDogs" required>
+            <button type="submit">Calcular</button>
+        </form>
+        <div id="result"></div>
+        
+    </main>
 </body>
 </html>
