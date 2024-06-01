@@ -1,0 +1,144 @@
+🎯 Casos de Teste Funcionais
+
+1. Inserção de Dados dos Cães
+
+Teste 1- Inserção de Data
+
+Passos:
+- Acessar a plataforma.
+- Inserir uma data no campo "Data".
+
+Resultado Esperado: A data deve ser aceita e exibida no campo de entrada.
+
+
+Teste 2 - Inserção de Quantidade de Cães Pequenos
+
+Passos:
+- Acessar a plataforma.
+ -Inserir um número no campo "Cães Pequenos".
+
+Resultado Esperado: O número deve ser aceito e exibido no campo de entrada.
+
+Teste 3 - Inserção de Quantidade de Cães Grandes
+
+Passos:
+- Acessar a plataforma.
+- Inserir um número no campo "Cães Grandes".
+
+Resultado Esperado: O número deve ser aceito e exibido no campo de entrada.
+
+2. Cálculo de Melhor Petshop
+
+Teste 4 - Cálculo de Melhor Petshop com Dados Válidos
+
+Passos:
+- Inserir uma data válida.
+- Inserir um número válido de cães pequenos.
+- Inserir um número válido de cães grandes.
+- Clicar no botão "Calcular".
+
+Resultado Esperado: O melhor petshop deve ser calculado e exibido na tela.
+
+Teste 5 - Cálculo de Melhor Petshop com Dados Inválidos
+
+Passos:
+- Inserir uma data inválida.
+- Inserir um número inválido de cães pequenos.
+- Inserir um número inválido de cães grandes.
+- Clicar no botão "Calcular".
+
+Resultado Esperado: Uma mensagem de erro deve ser exibida, solicitando a correção dos dados.
+
+3. Exibição do Resultado
+
+Teste 6 - Exibição de Resultado Corretamente
+
+Passos:
+- Realizar o cálculo com dados válidos.
+
+Resultado Esperado: O nome do melhor petshop deve ser exibido na área de resultados.
+
+4. Busca por Petshops
+
+Teste 7 - Busca por Petshop Existente
+
+Passos:
+- Inserir o nome de um petshop existente no campo de busca.
+- Clicar no botão de busca.
+
+Resultado Esperado: O petshop correspondente deve ser exibido na lista de resultados.
+
+Teste 8 - Busca por Petshop Inexistente
+
+Passos:
+- Inserir o nome de um petshop inexistente no campo de busca.
+- Clicar no botão de busca.
+
+Resultado Esperado: Uma mensagem informando que nenhum petshop foi encontrado deve ser exibida.
+
+5. Interatividade com o Usuário
+
+Teste 9 - Interatividade Geral
+
+Passos:
+- Navegar pelos campos de entrada e botões da plataforma.
+
+Resultado Esperado: Todos os campos e botões devem ser interativos e responsivos ao clique.
+
+6. Formulário de Entrada
+
+Teste 10 - Submissão do Formulário
+
+Passos:
+- Preencher todos os campos obrigatórios do formulário.
+- Clicar no botão "Calcular".
+
+Resultado Esperado: O formulário deve ser submetido corretamente e o resultado exibido.
+
+
+🛡️ Casos de Teste Não Funcionais
+
+1. Segurança dos Dados
+
+Teste 11 - Segurança e Privacidade dos Dados
+
+Passos:
+- Verificar se os dados inseridos pelos usuários são armazenados de maneira segura.
+
+Resultado Esperado: Os dados devem ser criptografados e protegidos contra acessos não autorizados.
+
+2. Usabilidade
+
+Teste 12 - Intuitividade da Plataforma
+
+Passos:
+- Realizar testes de usabilidade com usuários finais.
+
+Resultado Esperado: Os usuários devem achar a plataforma intuitiva e fácil de usar.
+
+3. Desempenho
+
+Teste 13 - Tempo de Resposta
+
+Passos:
+- Medir o tempo de resposta ao calcular o melhor petshop.
+
+Resultado Esperado: O cálculo deve ser realizado em menos de 2 segundos.
+
+4. Disponibilidade
+
+Teste 14 - Disponibilidade 24/7
+
+Passos:
+- Acessar a plataforma em diferentes horários do dia e da noite.
+
+Resultado Esperado: A plataforma deve estar disponível e funcionando corretamente em todos os horários.
+
+5. Compatibilidade
+Teste 15 - Compatibilidade com Diferentes Dispositivos e Navegadores
+
+Passos:
+- Acessar a plataforma em diferentes dispositivos (PC, tablet, smartphone).
+- Acessar a plataforma em diferentes navegadores (Chrome e Edge).
+
+Resultado Esperado: A plataforma deve funcionar corretamente em todos os dispositivos e navegadores testados.
